@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.navbar{
+	border:1px solid black;
+	background-color: black;
+	color: #61122F;
+}
+.food1{
+	border:2px solid black;
+	padding: 10px;
+	background-color: lightgrey;
+	font-weight:bold ;
+}
+.food2{
+	border:2px solid black;
+	padding: 10px;
+	background-color: lightgrey;
+	font-weight:bold ;
+}
+.food3{
+	border:2px solid black;
+	padding: 10px;
+	background-color: lightgrey;
+	font-weight:bold ;
+}
+.visible-xs-block{
+	display: none;
+}
+#myNavbar>opt{
+	/*background-color:#657ca1;
+	color: #b35e44;*/
+}
+a[class*="opt"]{
+	margin: 2px;
+	border: 2px solid yellow;
+}
+body{
+
+}
